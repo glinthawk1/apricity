@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Footwears </title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&family=Shadows+Into+Light&family=Special+Elite&display=swap" rel="stylesheet">
+          <style>
+body {
+  background-image: url('https://i.redd.it/9whmazohy6u41.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+          </style>
+</head>
+
+<body>
+<center> <img src="C:\Kenzie/header.png" style="height:100px;width:500px"> </center>
+<h1 style="font-family:IM Fell DW Pica, serif;italic;color:#85586F"><center> <img src="C:\Kenzie/flower.gif" style="height:30px;width:30px"> New Items <img src="C:\Kenzie/flower.gif" style="height:30px;width:30px"> </center> </h1>
+
+
+<center> <nav style="background-color:#F8ECD1;height:50px;border:3px solid;color:#85586F;width:800px">
+          <center>|<a href="file:///C:/Kenzie/Html%20files/Kenshoppe.html"> Home </a>| About | Contact |
+          </nav>
+          <br>
+
+<section style="background-color:#F8ECD1;height:600px;border:3px solid;color:#85586F;width:700px">
+         <h1 style="font-family:IM Fell DW Pica, serif;font-size:40px"> Popular Dresses </h1> <br>
+         <img src="https://i.pinimg.com/736x/d7/f9/06/d7f906722ebaa7bd294c0d0249f8ee4f.jpg" style="height:200px;width:150px;border:3px solid;color:#85586F;">
+          
+
+
+
+
+</body>
+</html>
